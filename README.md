@@ -1,7 +1,7 @@
 # 👨🏻‍💻 Filipe Silveira
 
 ## `Desenvolvedor Junior`
-Sou desenvolvedor em formação, com foco em **JavaScript** e **TypeScript**, atualmente em transição de carreira para a área de desenvolvimento de software.
+Sou desenvolvedor em formação, com foco em **NODE JS / JavaScript** e **TypeScript**, atualmente em transição de carreira para a área de desenvolvimento de software.
 Venho de uma trajetoria profissional em ambientes corporativos, trabalho com sistemas, processos, análise de dados, o que me trouxe base sólida em organização, responsabilidade e resolução de problemas reais.
 
 ---
@@ -43,6 +43,14 @@ Meu objetivo é construir uma base técnica forte antes de avançar para framewo
     />
     <img
         align="left"
+        alt="NODE JS"
+        title="Node JS"
+        width="30px"
+        style="padding-right: 10px;"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" 
+    />
+    <img
+        align="left"
         alt="TYPESCRIPT"
         title="TYPESCRIPT"
         width="30px"
@@ -56,6 +64,30 @@ Meu objetivo é construir uma base técnica forte antes de avançar para framewo
         width="30px"
         style="padding-right: 10px;" 
         src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
+    />
+    <img
+        align="left"
+        alt="GIT"
+        title="GIT"
+        width="30px"
+        style="padding-right: 10px;"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
+    />
+    <img
+        align="left"
+        alt="NODEMON"
+        title="NODEMON"
+        width="30px"
+        style="padding-right: 10px;" 
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodemon/nodemon-original.svg" 
+    />
+    <img
+        align="left"
+        alt="MYSQL"
+        title="MYSQL"
+        width="30px"
+        style="padding-right: 10px;"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" 
     />
 </div>
 <br/>
