@@ -102,4 +102,4 @@ Busco minha **primeira oportunidade como desenvolvedor júnior ou trainee**, em 
 
 ---
 ### `🤖 Estatísticas`
-![Tecnologias](https://github-readme-stats.vercel.app/api/top-langs/?username=filipesilveira-tech&layout=compact)
+![Tecnologias](https://github-readme-stats.vercel.app/api/top-langs/?username=FilipeSilveira-Tech&layout=compact)
