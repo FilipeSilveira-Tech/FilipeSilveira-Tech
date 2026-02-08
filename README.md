@@ -14,83 +14,12 @@ Venho de uma trajetoria profissional em ambientes corporativos, trabalho com sis
 
 Meu objetivo é construir uma base técnica forte antes de avançar para frameworks e aplicações mais complexas.
 
+### `🧩 Projetos em andamento:`
+<a href="https://github.com/ShadownJin/ShadownJin"><img alt="Static Badge" src="https://img.shields.io/badge/github-ShadownJin Bot-blue?logo=github"></a>
+
 ---
 ### `🛠️ Tecnologias e conhecimentos`
-<div style="padding-bottom: 20px">
-    <img
-    align="left"
-    alt="HTML"
-    title="HTML"
-    width="30px"
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-    />
-    <img
-        align="left"
-        alt="CSS"
-        title="CSS"
-        width="30px"
-        style="padding-right: 10px;"
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-    />
-    <img
-        align="left"
-        alt="JAVASCRIPT"
-        title="JAVASCRIPT"
-        width="30px"
-        style="padding-right: 10px;"
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-    />
-    <img
-        align="left"
-        alt="NODE JS"
-        title="Node JS"
-        width="30px"
-        style="padding-right: 10px;"
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" 
-    />
-    <img
-        align="left"
-        alt="TYPESCRIPT"
-        title="TYPESCRIPT"
-        width="30px"
-        style="padding-right: 10px;"
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
-    />
-    <img
-        align="left"
-        alt="REACT"
-        title="REACT"
-        width="30px"
-        style="padding-right: 10px;" 
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
-    />
-    <img
-        align="left"
-        alt="GIT"
-        title="GIT"
-        width="30px"
-        style="padding-right: 10px;"
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-    />
-    <img
-        align="left"
-        alt="NODEMON"
-        title="NODEMON"
-        width="30px"
-        style="padding-right: 10px;" 
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodemon/nodemon-original.svg" 
-    />
-    <img
-        align="left"
-        alt="MYSQL"
-        title="MYSQL"
-        width="30px"
-        style="padding-right: 10px;"
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" 
-    />
-</div>
-<br/>
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,ts,express,react,ps,firebase,bootstrap,discord,bots,git,github,mysql,nodejs,php,postgres,postman,py,vscode)](#)
 
 ---
 ### `🎯 Objetivo profissional`
@@ -98,8 +27,5 @@ Busco minha **primeira oportunidade como desenvolvedor júnior ou trainee**, em 
 
 ---
 ### `📫 Onde me encontrar`
-- <img align="left" title="LINKEDIN" alt="LINKEDIN" width="25px" style="padding-right: 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" /> <a href="https://www.linkedin.com/in/filipesilveira-dev/" target="_blank">Linkedin<a/>
+<img align="left" title="LINKEDIN" alt="LINKEDIN" width="25px" style="padding-right: 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" /> <a href="https://www.linkedin.com/in/filipesilveira-dev/" target="_blank">filipesilveira-dev<a/>
 
----
-### `🤖 Estatísticas`
-![Tecnologias](https://github-readme-stats.vercel.app/api/top-langs/?username=FilipeSilveira-Tech&layout=compact)
