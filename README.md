@@ -1,8 +1,9 @@
 # 👨🏻‍💻 Filipe Silveira
 
 ## `Desenvolvedor Junior`
-Sou desenvolvedor em formação, com foco em **NODE JS / JavaScript** e **TypeScript**, atualmente em transição de carreira para a área de desenvolvimento de software.
-Venho de uma trajetoria profissional em ambientes corporativos, trabalho com sistemas, processos, análise de dados, o que me trouxe base sólida em organização, responsabilidade e resolução de problemas reais.
+<img src="https://github.com/FilipeSilveira-Tech/FilipeSilveira-Tech/blob/main/caricatura.png" height="500px" align="right"/>
+<p align="left">Sou desenvolvedor em formação, com foco em <b>NODE JS</b>, <b>JavaScript</b> e <b>TypeScript</b>, atualmente em transição de carreira para a área de desenvolvimento de software. 
+Venho de uma trajetoria profissional em ambientes corporativos, trabalho com sistemas, processos, análise de dados, o que me trouxe base sólida em organização, responsabilidade e resolução de problemas reais.</p>
 
 ---
 ### `🚀 Em que estou focado atualmente`
