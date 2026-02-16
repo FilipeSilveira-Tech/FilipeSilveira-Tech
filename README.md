@@ -30,3 +30,6 @@ Busco minha **primeira oportunidade como desenvolvedor júnior ou trainee**, em 
 ### `📫 Onde me encontrar`
 <img align="left" title="LINKEDIN" alt="LINKEDIN" width="25px" style="padding-right: 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" /> <a href="https://www.linkedin.com/in/filipesilveira-dev/" target="_blank">filipesilveira-dev<a/>
 
+---
+
+![Visitor Count](https://profile-counter.glitch.me/FilipeSilveira-Tech/count.svg)
